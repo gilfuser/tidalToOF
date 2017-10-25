@@ -1,0 +1,7 @@
+<group>
+	<Threshold_Value>20</Threshold_Value>
+	<Radius>10</Radius>
+	<Learning_Time>0.5</Learning_Time>
+	<Contrast>100</Contrast>
+<group/>
+</group>
